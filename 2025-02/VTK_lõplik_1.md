@@ -7,36 +7,6 @@ eelarvearenduste osakond
 oktoober 2022
 
 
-## SISUKORD
-
-- Probleem, sihtrühm ja eesmärk
-   - 1. Probleemi kirjeldus ja selle tekke põhjus
-   - 2. Sihtrühm
-   - 3. Eesmärk ja saavutatava olukorra kirjeldus
-- Hetkeolukord, uuringud, analüüsid
-   - 4. Kehtiv õigus, seotud strateegiad ja arengukavad
-   - 5. Tehtud uuringud
-   - 6. Kaasatud osapooled
-- Probleemi võimalikud mitteregulatiivsed lahendused
-   - 7. Kaalutud võimalikud mitteregulatiivsed lahendused
-   - 7.1 Kaalutud võimalike mitteregulatiivsete lahenduste võrdlev analüüs
-   - 7.2 Järeldus mitteregulatiivsete lahenduste kohta
-- Probleemi võimalikud regulatiivsed lahendused
-   - seaduseelnõu koostamisel analüüsida 8. Välisriigid, mille regulatiivseid valikuid probleemi lahendamiseks on analüüsitud või on kavas
-   - 9. Regulatiivsete võimaluste kirjeldus
-   - määratud raamid 10. Regulatiivsete võimaluste põhiseadusega ning Euroopa Liidu ja rahvusvahelise õigusega
-- Regulatiivsete võimaluste mõjude eelanalüüs ja mõju olulisus
-   - 11. Kavandatavad muudatused ja nende mõjud
-   - 12. Muudatuste koondmõju ettevõtete ja/või kodanike halduskoormusele
-   - 13. Muudatuste rakendamisega seotud riigi ja kohaliku omavalitsuse eeldatavad kulud ja tulud
-   - 14. Edasine mõjude analüüs
-   - Kavandatav õiguslik regulatsioon ja selle väljatöötamise tegevuskava
-   - 15. Valitav lahendus
-   - 16. Puudutatud ja muudetavad õigusaktid
-   - 17 Edasine kaasamisplaan – keda, millal ka kuidas kaasatakse
-   - 18. Põhjaliku mõjuanalüüsi toimumise aeg
-
-
 ## Probleem, sihtrühm ja eesmärk
 
 ### 1. Probleemi kirjeldus ja selle tekke põhjus
