@@ -1042,7 +1042,7 @@ kulude täitmine vastavad esialgsele kinnitatud eelarvele.
 osakaal võrreldes esialgse eelarvega.
  Hea hinde said kulude eelarvestamise täpsus programmide lõikes, tulude eelarvestamise täpsus
 koondeelarves ja tululiikide lõikes.
-Parandamist vajav. Kõige madalama hindega hinnati kulude eelarve majandusliku sisu detailsust (<a name="detilsus1"></a>) .
+Parandamist vajav. Kõige madalama hindega hinnati kulude eelarve majandusliku sisu detailsust (<a name="detailsus1"></a>) .
 PEFA kriteeriumid näevad ette, et hindamisel tuleb kasutada _Government Finance Statistics_ (GFS)
 klassifikatsiooni teist taset (2 numbrit) või sarnast jaotust. Viidatud klassifikaatori teine tase
 klassifitseerib nt personalikulud, majanduskulud, sotsiaaltoetused, intressid, antud garantiid jms.
